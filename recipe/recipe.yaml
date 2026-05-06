@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   name: asciinema-agg
-  version: "1.7.0"
+  version: "1.8.0"
 
 package:
   name: ${{ name }}
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://github.com/asciinema/agg/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 8927e2f3b1db53feed2e74319497ddc8404ac7989cb592099c402fbd05d94aa4
+  sha256: 31e0d54b6abc2c7545464bef0b5b9603d851c186c4ecfcd52f08a30d7bfa2781
 
 build:
   number: 0
