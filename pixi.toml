@@ -5,7 +5,7 @@
 
 [workspace]
 name = "asciinema-agg-feedstock"
-version = "3.53.2"  # conda-smithy version used to generate this file
+version = "3.61.2"  # conda-smithy version used to generate this file
 description = "Pixi configuration for conda-forge/asciinema-agg-feedstock"
 authors = ["@conda-forge/asciinema-agg"]
 channels = ["conda-forge"]
